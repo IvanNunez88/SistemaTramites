@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Desktop\\MAC\\FACPYA\\Gpo82\\BACK\\SistemaTramites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1321C01D-75A0-4F95-A5C6-FE2304B8AA6F}|API.WEB\\API.WEB.csproj|z:\\desktop\\mac\\facpya\\gpo82\\back\\sistematramites\\api.web\\api.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1321C01D-75A0-4F95-A5C6-FE2304B8AA6F}|API.WEB\\API.WEB.csproj|solutionrelative:api.web\\api.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API.WEB",
+              "DocumentMoniker": "Z:\\Desktop\\MAC\\FACPYA\\Gpo82\\BACK\\SistemaTramites\\API.WEB\\API.WEB.csproj",
+              "RelativeDocumentMoniker": "API.WEB\\API.WEB.csproj",
+              "ToolTip": "Z:\\Desktop\\MAC\\FACPYA\\Gpo82\\BACK\\SistemaTramites\\API.WEB\\API.WEB.csproj",
+              "RelativeToolTip": "API.WEB\\API.WEB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T01:42:35.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
